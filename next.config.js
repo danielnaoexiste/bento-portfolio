@@ -1,4 +1,9 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {}
+const withNextIntl = require("next-intl/plugin")(
+  // This is the default (also the `src` folder is supported out of the box)
+  "./src/locales/index.ts"
+);
 
-module.exports = nextConfig
+/** @type {import('next').NextConfig} */
+const nextConfig = withNextIntl({});
+
+module.exports = nextConfig;
