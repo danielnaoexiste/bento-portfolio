@@ -15,7 +15,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const description =
     "Dan Gazzaneo is a senior front-end developer based in Brazil, passionate about creating beautiful and accessible user experiences.";
 
-  const url = process.env.NEXT_PUBLIC_DOMAIN!;
+  const url = process.env.NEXT_PUBLIC_DOMAIN! ?? "https://www.dangazzaneo.dev";
 
   const title = `${name} | ${job}`;
 

@@ -13,8 +13,6 @@ interface RootLayoutProps {
   };
 }
 
-const test = (test: number) => {};
-
 export default async function RootLayout({
   children,
   params,
