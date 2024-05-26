@@ -1,0 +1,14 @@
+{
+  "linkedin": {
+    "description": "O modo mais fácil de entrar em contato comigo. Veja minhas habilidades e recomendações.",
+    "button": "Conectar"
+  },
+  "github": {
+    "button": "Seguir",
+    "description": "Meus códigos."
+  },
+  "itch": {
+    "button": "Jogar",
+    "description": "Jogue meus jogos."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "Source Code",
+  "cavescape": {
+    "title": "CaveScape",
+    "subtitle": "2019 - Community Game Jam",
+    "description": "CaveScape is a 2-bit platformer metroidvania made for the Community Game Jam 2019! Following the theme \"The game is a liar\". This exploration platformer lies about the items and powerups you get."
+  },
+  "torrato": {
+    "title": "Torrato",
+    "description": "The mouse got stuck inside an oven and it's unbearably hot! Made for DevuJam!"
+  },
+  "spacial": {
+    "title": "Spacial Dog",
+    "description": "Prototype Made for Ludum Dare 42. Run out of space, avoiding asteroids and a solar explosion while collecting fuel."
+  },
+  "awaken": {
+    "title": "Awaken the Dev-U",
+    "description": "Mobile choose-your-adventure game made for \"Integra Unifei 2020\""
+  }
+}

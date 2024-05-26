@@ -1,0 +1,13 @@
+{
+  "name": "Dan Gazzaneo",
+  "title": "Front-end Developer",
+  "bio": "I've always been passionate about creating beautiful user experiences.",
+  "paragraph": "Senior Front-end Developer with over 4 years of experience, specialized in React and Vue. Experience in version control systems, design systems development, micro-frontend architecture, automated tests, object-oriented programming and agile methodologies.",
+  "email": "contact@dangazzaneo.dev",
+  "about": "About me",
+  "cv": "Get my Resume",
+  "footer": "Built by Dan Gazzaneo",
+  "homepage": "Home",
+  "work": "Work Experience",
+  "recommendations": "Recommendations"
+}

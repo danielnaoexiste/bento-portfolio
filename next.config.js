@@ -4,6 +4,18 @@ const withNextIntl = require("next-intl/plugin")(
 );
 
 /** @type {import('next').NextConfig} */
-const nextConfig = withNextIntl({});
+const nextConfig = withNextIntl({
+  images: {
+    dangerouslyAllowSVG: true,
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "img.shields.io",
+        port: "",
+        pathname: "/**",
+      },
+    ],
+  },
+});
 
 module.exports = nextConfig;

@@ -1,0 +1,61 @@
+{
+  "skills": "Tech Stack",
+  "workHistory": {
+    "ciandt": {
+      "title": "CI&T",
+      "link": "https://ciandt.com",
+      "job": "Software Architect ",
+      "period": "Since April 2024",
+      "description": "Working as Technical Leadership for a web-core squad, managing the team, defining and defending solutions that may impact other teams, working on technical refinements and KTs/Dojos to share knowledge across multiple squads."
+    },
+    "ciandt2": {
+      "title": "CI&T",
+      "link": "https://ciandt.com",
+      "job": "Senior Front-end Developer",
+      "period": "June 2023 - April 2024",
+      "description": "Web-core development of complex applications with several MFEs. Technical refinement of stories and tasks. Rendering, State Management, Navigation, Authentication and Error Handling. Also worked on a separate, mental wellbeing React Native app."
+    },
+    "ciandt3": {
+      "title": "CI&T",
+      "link": "https://ciandt.com",
+      "job": "Front-end Developer",
+      "period": "April 2022 - June 2023",
+      "description": "Worked on multiple international projects, focused on the stabilization, migration, and modernization of legacy projects. Fullstack development with React and .NET Core."
+    },
+    "aiqfome": {
+      "title": "Aiqfome",
+      "link": "https://aiqfome.com",
+      "job": "Front-end Developer",
+      "period": "May 2021 - April 2022",
+      "description": "Development of front-end applications in React. Development of internal applications and dashboards; Experience with agile methodologies (scrum and kanban)."
+    },
+    "hivelabs": {
+      "title": "Hivelabs",
+      "link": "https://hivelabs.com.br",
+      "job": "Junior Front-end Developer",
+      "period": "September 2020 - May 2021",
+      "description": "Development of front-end applications in Vue JS and React. Application development in partnership with Locaweb All iN; REST APIs with NodeJS / Express and integration of SOAP interfaces."
+    },
+    "hivelabs2": {
+      "title": "Hivelabs",
+      "link": "https://hivelabs.com.br",
+      "job": "Internship: Web Developer",
+      "period": "February 2020 - September 2020",
+      "description": "Development of backend systems with Node.JS / Express and frontend with React and React Native. Responsible for the implementation of digital marketing systems."
+    },
+    "devu": {
+      "title": "Dev-U",
+      "link": "https://dev-unifei.github.io/",
+      "job": "Director of Programming",
+      "period": "November 2019 - May 2020",
+      "description": "University Extension Project. Game development with Godot and Unity (C#). Management and training of the programming sector. Conducting lectures and workshops on game development."
+    },
+    "devu2": {
+      "title": "Dev-U",
+      "link": "https://dev-unifei.github.io/",
+      "job": "Programmer",
+      "period": "September 2019 - November 2019",
+      "description": "University Extension Project. Game development with Godot and Unity (C#)."
+    }
+  }
+}

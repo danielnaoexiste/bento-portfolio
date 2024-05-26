@@ -1,0 +1,29 @@
+{
+  "viewAll": "Ver todas as recomendações no LinkedIn",
+  "translate": "traduzir (ptBR)",
+  "original": "ver original (enUS)",
+  "first": {
+    "author": "Tamires Cordeiro",
+    "role": "Engenheira de Software",
+    "date": "2024-02-28",
+    "originalText": "Daniel foi meu \"mestre React\", sendo referência não só para mim mas também para o time em que atuamos. Todos nós tivemos a oportunidade de aprender melhores práticas de React e arquitetura Front-end com ele. Ele se atenta as melhorias necessárias e mapeia oportunidades, garantindo sempre que todos entendam as soluções propostas. Em parceria com negócios se mostra rápido na absorção de contextos e demonstra destreza na apresentação de soluções técnicas junto a stakeholders. Como colega Daniel é uma pessoa disponível para pensar sobre soluções e ensinar, evolui muito sob sua mentoria.",
+    "translatedText": "Daniel foi meu \"mestre React\", sendo referência não só para mim mas também para o time em que atuamos. Todos nós tivemos a oportunidade de aprender melhores práticas de React e arquitetura Front-end com ele. Ele se atenta as melhorias necessárias e mapeia oportunidades, garantindo sempre que todos entendam as soluções propostas. Em parceria com negócios se mostra rápido na absorção de contextos e demonstra destreza na apresentação de soluções técnicas junto a stakeholders. Como colega Daniel é uma pessoa disponível para pensar sobre soluções e ensinar, evolui muito sob sua mentoria.",
+    "linkedin": "https://www.linkedin.com/in/tamirescordeiro"
+  },
+  "second": {
+    "author": "Guilherme Rangel",
+    "role": "Desenvolvedor Front-end Senior",
+    "date": "2023-02-15",
+    "originalText": "Daniel é sem dúvidas um dos melhores desenvolvedores front-end que já trabalhei. Tem um raciocínio extremamente rápido e muito conhecimento sobre React e Typescript. Com isso, consegue propor ótimas soluções técnicas e traz boas ideias de melhoria de software.",
+    "translatedText": "Daniel é sem dúvidas um dos melhores desenvolvedores front-end que já trabalhei. Tem um raciocínio extremamente rápido e muito conhecimento sobre React e Typescript. Com isso, consegue propor ótimas soluções técnicas e traz boas ideias de melhoria de software.",
+    "linkedin": "https://www.linkedin.com/in/guilherme-rangel"
+  },
+  "third": {
+    "author": "Juliano Sirtori",
+    "role": "Front-end Web Developer",
+    "date": "2022-10-07",
+    "originalText": "Trabalhei com o Daniel em duas empresas diferentes e ele desempenhou com maestria em todos os projetos, sempre ajudando o time. Possuiu um ótimo inglês e sempre agrega valor ao projeto sugerindo melhorias. Recomendo muito o trabalho do Dani.",
+    "translatedText": "Trabalhei com o Daniel em duas empresas diferentes e ele desempenhou com maestria em todos os projetos, sempre ajudando o time. Possuiu um ótimo inglês e sempre agrega valor ao projeto sugerindo melhorias. Recomendo muito o trabalho do Dani.",
+    "linkedin": "https://www.linkedin.com/in/juliano-sirtori"
+  }
+}

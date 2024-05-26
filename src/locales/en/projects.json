@@ -1,0 +1,38 @@
+{
+  "source": "Source Code",
+  "froggy": {
+    "title": "Froggy",
+    "description": "Froggy is a customizable general purpose Discord bot for moderators and anime fans. It offers powerful, yet simple moderation utilities, and fun interactions to engage guild members."
+  },
+  "surigu": {
+    "title": "Surigu UI",
+    "description": "React component library built with styled-system."
+  },
+  "beeper": {
+    "title": "Beeper",
+    "description": "React native cloud note-taking app."
+  },
+  "portfolio95": {
+    "title": "Portfolio95",
+    "description": "Old Windows 95 themed portfolio. See my projects and games, resume and information about my career. Built with React95."
+  },
+  "yeop": {
+    "title": "Yeop Engine",
+    "description": "2D game engine and editor written in C++/SDL2."
+  },
+  "aciei": {
+    "title": "ACIEI Portal",
+    "subtitle": "2020 - Hivelabs",
+    "description": "Internal Dashboard for ACIEI, built with jQuery."
+  },
+  "training": {
+    "title": "All iN Training",
+    "subtitle": "2021 - Hivelabs",
+    "description": "E-Training Platform built with Vue for All iN."
+  },
+  "raimundo": {
+    "title": "Raimundo",
+    "subtitle": "2021-2022 - Aiqfome",
+    "description": "Internal dashboard and action manager for franchisees and employees. Dashboards, payments, coupon management, marketing campaigns, order and delivery details. Built with React."
+  }
+}

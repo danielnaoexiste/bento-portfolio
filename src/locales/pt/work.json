@@ -1,0 +1,61 @@
+{
+  "skills": "Tech Stack",
+  "workHistory": {
+    "ciandt": {
+      "title": "CI&T",
+      "link": "https://ciandt.com",
+      "job": "Arquiteto de Software",
+      "period": "Desde Abril 2024",
+      "description": "Trabalhando como liderança técnica para um squad web-core, gerenciando o time, definindo e defendendo soluções que possam impactar outros times, trabalhando em refinamentos técnicos e KTs/Dojos para compartilhar conhecimento entre múltiplos squads."
+    },
+    "ciandt2": {
+      "title": "CI&T",
+      "link": "https://ciandt.com",
+      "job": "Desenvolvedor Front-end Senior",
+      "period": "Junho 2023 - Abril 2024",
+      "description": "Desenvolvimento web-core de aplicações complexas com vários MFEs. Refinamento técnico de estórias e tarefas. Renderização, gerenciamento de estado, navegação, autenticação e tratamento de erros. Também trabalhei em um aplicativo React Native de saúde mental."
+    },
+    "ciandt3": {
+      "title": "CI&T",
+      "link": "https://ciandt.com",
+      "job": "Desenvolvedor Front-end",
+      "period": "Abril 2022 - Junho 2023",
+      "description": "Trabalhei em múltiplos projetos internacionais, com foco na estabilização, migração e modernização de projetos legados. Desenvolvimento Fullstack com React e .NET Core."
+    },
+    "aiqfome": {
+      "title": "Aiqfome",
+      "link": "https://aiqfome.com",
+      "job": "Desenvolvedor Front-end",
+      "period": "Maio 2021 - Abril 2022",
+      "description": "Desenvolvimento de aplicações front-end em React. Desenvolvimento de aplicações internas e dashboards; Experiência com metodologias ágeis (scrum e kanban)."
+    },
+    "hivelabs": {
+      "title": "Hivelabs",
+      "link": "https://hivelabs.com.br",
+      "job": "Desenvolvedor Front-end JR",
+      "period": "Setembro 2020 - Maio 2021",
+      "description": "Desenvolvimento de aplicações front-end em Vue JS e React. Desenvolvimento de aplicações em parceria com Locaweb All iN; APIs REST com NodeJS/Express e integração de interfaces SOAP."
+    },
+    "hivelabs2": {
+      "title": "Hivelabs",
+      "link": "https://hivelabs.com.br",
+      "job": "Estágio: Desenvolvedor Web",
+      "period": "Fevereiro 2020 - Setembro 2020",
+      "description": "Desenvolvimento de sistemas backend com Node.JS/Express e frontend com React e React Native. Responsável pela implantação de sistemas de marketing digital."
+    },
+    "devu": {
+      "title": "Dev-U",
+      "link": "https://dev-unifei.github.io/",
+      "job": "Diretor de Programação",
+      "period": "Novembro 2019 - Maio 2020",
+      "description": "Projeto de Extensão Universitário. Desenvolvimento de jogos com Godot e Unity (C#). Gestão e capacitação do setor de programação. Realização de palestras e workshops sobre desenvolvimento de jogos."
+    },
+    "devu2": {
+      "title": "Dev-U",
+      "link": "https://dev-unifei.github.io/",
+      "job": "Programador",
+      "period": "Setembro 2019 - Novembro 2019",
+      "description": "Projeto de Extensão Universitário. Desenvolvimento de jogos com Godot e Unity (C#)."
+    }
+  }
+}

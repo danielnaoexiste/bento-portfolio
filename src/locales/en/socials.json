@@ -1,0 +1,14 @@
+{
+  "linkedin": {
+    "description": "The easiest way to get in touch with me. See my skills and recomendations.",
+    "button": "Connect"
+  },
+  "github": {
+    "button": "Follow",
+    "description": "Check my code."
+  },
+  "itch": {
+    "button": "Play",
+    "description": "Play my games."
+  }
+}
